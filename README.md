@@ -5,6 +5,21 @@ I am currently taking online courses in programming, learning the foundations.  
 
 I am learning: HTML, CSS, JavaScript.<br />
 
+### Projects I've Completed
+
+Please take a look!
+#### HTML & CSS:
+* [Animal Trading Card](https://github.com/christina-ml/animal-trading-card)
+* [Personal Blog Website](https://christina-ml.github.io/personal-blog-website/)
+
+#### HTML, CSS, & JavaScript:
+* [Pixel Art Maker](https://christina-ml.github.io/Pixel-Art-Project/)
+* Landing Page (currently working on)
+
+#### Python:
+* [Adventure Game](https://github.com/christina-ml/Adventure-Game)
+* [Rock Paper Scissors](https://github.com/christina-ml/Rock-Paper-Scissors)
+
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christina-loiacono/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/cmloiacono?style=social)](https://twitter.com/cmloiacono)
