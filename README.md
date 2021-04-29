@@ -14,7 +14,8 @@ Please take a look!
 
 #### HTML, CSS, & JavaScript:
 * [Pixel Art Maker](https://christina-ml.github.io/Pixel-Art-Project/)
-* Landing Page (currently working on)
+* [Landing Page](https://christina-ml.github.io/fend-landing-page/) (currently working on)
+    - [see code here](https://github.com/christina-ml/fend-landing-page)
 
 #### Python:
 * [Adventure Game](https://github.com/christina-ml/Adventure-Game)
