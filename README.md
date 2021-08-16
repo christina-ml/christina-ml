@@ -1,5 +1,5 @@
 ### Hello, I'm Christina Loiacono!
-I am currently taking online courses in programming, learning the foundations.  My goal is to continue learning new skills as I become a Front End Web Developer.
+I am currently taking online courses in programming, learning the foundations.  My goal is to continue learning new skills as I become a Full Stack Web Developer.
 
 ### What I'm working on
 
