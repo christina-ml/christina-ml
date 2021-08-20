@@ -26,6 +26,8 @@ Please take a look!
 [![Twitter Badge](https://img.shields.io/twitter/follow/cmloiacono?style=social)](https://twitter.com/cmloiacono)
 [![GitHub Badge](https://img.shields.io/github/followers/christina-ml?label=Follow%20%40christina-ml&style=social)](https://github.com/christina-ml)
 
+[![Codewars Badge](https://www.codewars.com/users/christinaml/badges/large)](https://www.codewars.com/users/christinaml)
+
 <!--- 
 Profile Inspiration -
 https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
