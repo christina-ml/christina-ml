@@ -1,13 +1,12 @@
 ### Hello, I'm Christina Loiacono!
-I am currently taking online courses in programming, learning the foundations.  My goal is to continue learning new skills as I become a Full Stack Web Developer.
+I am a Full Stack Web Developer.
 
 ### What I'm working on
 
-I am learning: HTML, CSS, JavaScript.<br />
+HTML, CSS, JavaScript.<br />
 
 ### Projects I've Completed
 
-Please take a look!
 #### HTML & CSS:
 * [Animal Trading Card](https://github.com/christina-ml/animal-trading-card)
 * [Personal Blog Website](https://christina-ml.github.io/personal-blog-website/)
