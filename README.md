@@ -41,7 +41,7 @@ HTML, CSS, JavaScript, and Python<br />
 
 <hr>
 
-GitHub Stats
+### GitHub Stats
 
 [![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&show_icons=true&theme=radical)](https://github.com/christina-ml)
 
