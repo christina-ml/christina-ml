@@ -43,9 +43,9 @@ HTML, CSS, JavaScript, and Python<br />
 
 GitHub Stats
 
-![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&show_icons=true&theme=radical)
+[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&show_icons=true&theme=radical)](https://github.com/christina-ml)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&layout=compact)](https://github.com/christina-ml/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&layout=compact)](https://github.com/christina-ml)
 
 <hr>
 
