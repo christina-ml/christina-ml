@@ -41,6 +41,14 @@ HTML, CSS, JavaScript, and Python<br />
 
 <hr>
 
+GitHub Stats
+
+![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&layout=compact)](https://github.com/christina-ml/github-readme-stats)
+
+<hr>
+
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christina-loiacono/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/cmloiacono?style=social)](https://twitter.com/cmloiacono)
