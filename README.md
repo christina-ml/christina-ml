@@ -51,7 +51,6 @@ HTML, CSS, JavaScript, and Python<br />
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christina-loiacono/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/cmloiacono?style=social)](https://twitter.com/cmloiacono)
 [![GitHub Badge](https://img.shields.io/github/followers/christina-ml?label=Follow%20%40christina-ml&style=social)](https://github.com/christina-ml)
 
 [![Codewars Badge](https://www.codewars.com/users/christinaml/badges/large)](https://www.codewars.com/users/christinaml)
