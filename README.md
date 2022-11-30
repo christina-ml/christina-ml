@@ -5,22 +5,32 @@ I am working towards becoming a Full Stack Web Developer so that I can be a lead
 
 I am looking to transition careers from the fashion industry to full stack web development, where my skills will be more in-demand and have the opportunity to grow. I would like to be part of a team that is innovative and allows me to continue learning and add value to the company.
 
-Open to opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open Source Projects, Internships!
+Open to opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open Source Projects!
 
 
 ### Interests
 Coding, Google-Fu
 
-### Technologies
+## Technologies
 
-HTML, CSS, JavaScript, and Python<br />
+JavaScript, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS, and Python<br />
 
 
 <hr>
 
-### Projects I've Completed
+## Projects
+
+#### Personal Project:
+PERN Stack (PostgreSQL, Express, React, Node), JavaScript:
+* [CryptoTalk](https://cryptotalk-cl.netlify.app/)
 
 #### Pursuit Fellowship Projects:
+
+Projects implementing the PERN Stack (PostgreSQL, Express, React, Node), JavaScript:
+* [CTA Store App](https://cl-cta-fe.netlify.app/)
+* [Budgeting App](https://cl-fe-budgeting-app.netlify.app/)
+
+More Projects:
 * [Command Line Snowman](https://github.com/christina-ml/8-0-command-line-snowman)
 * [Dinosaur Museum Project](https://github.com/christina-ml/8-0-dinosaur-museum-project)
 
