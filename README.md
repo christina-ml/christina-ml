@@ -52,8 +52,7 @@ More Projects:
 ### GitHub Stats
 
 [![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&theme=radical)](https://github.com/christina-ml/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml)](https://github.com/christina-ml)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&theme=radical&layout=compact)](https://github.com/christina-ml)
 
 <hr>
 
@@ -67,6 +66,8 @@ More Projects:
 Profile Inspiration -
 https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
 https://github.com/diogorodrigues
+
+GitHub stats documentation: https://github.com/anuraghazra/github-readme-stats
 
 Make buttons - https://shields.io/
 Custom Logos - https://simpleicons.org/
