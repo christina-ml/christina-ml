@@ -1,19 +1,17 @@
 ### Hello!
-I’m Christina, a Full Stack Web Developer from New York City. Currently I am a Pursuit Fellow, taking part in an intensive 12 - month software engineering fellowship with a 9% acceptance rate.
+I’m Christina, a Full Stack Software Engineer from New York City. Currently I am a recent graduate of Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate.
 
-I am working towards becoming a Full Stack Web Developer so that I can be a leader in tech, by strengthening my skills and continuing to learn each day.
+I became a software engineer because I have always enjoyed using computers from a young age to create things such as artwork and my own newsletters. I have a passion for problem solving, working on puzzles, paying close attention to details, and being curious to learn new things each day. Today I am using my knowledge that I’ve learned from Pursuit to turn code into full stack web applications. I believe I can make a difference and become a leader in tech by strengthening and building upon my skills as well as learning new and exciting technologies as they arise in a fast-growing industry.
 
-I am looking to transition careers from the fashion industry to full stack web development, where my skills will be more in-demand and have the opportunity to grow. I would like to be part of a team that is innovative and allows me to continue learning and add value to the company.
-
-Open to opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open Source Projects!
+Open to all opportunities: Full-time, Apprenticeships, Volunteer Opportunities, Open Source Projects!
 
 
 ### Interests
-Coding, Google-Fu
+Coding, Google-Fu, Open Source
 
 ## Technologies
 
-JavaScript, React.js, Node.js, Express.js, PostgreSQL, HTML, CSS, and Python<br />
+PERN Stack (React.js, Node.js, Express.js, PostgreSQL), JavaScript, HTML, CSS/SCSS<br />
 
 
 <hr>
