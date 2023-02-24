@@ -51,9 +51,9 @@ More Projects:
 
 ### GitHub Stats
 
-[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&show_icons=true&theme=radical)](https://github.com/christina-ml)
+[![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&theme=radical)](https://github.com/christina-ml/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&layout=compact)](https://github.com/christina-ml)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml)](https://github.com/christina-ml)
 
 <hr>
 
