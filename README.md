@@ -1,12 +1,16 @@
-### Hello!
+# Hello there! I'm Christina Loiacono 👋
+
 I’m Christina, a Full Stack Software Engineer from New York City. Currently I am a recent graduate of Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate in NYC.
 
 I became a software engineer because I have always enjoyed using computers from a young age to create things such as artwork and my own newsletters. I have a passion for problem solving, working on puzzles, paying close attention to details, and being curious to learn new things each day. Today I am using my knowledge that I’ve learned from Pursuit to turn code into full stack web applications. I believe I can make a difference and become a leader in tech by strengthening and building upon my skills as well as learning new and exciting technologies as they arise in a fast-growing industry.
 
-Open to all opportunities: Full-time, Part-time, Apprenticeships, Contract Jobs, Volunteer Opportunities, Open Source Projects!
+### Open to Work
+Full-time | Part-time | Apprenticeships | Internships | Contract Jobs | Volunteer Opportunities | Open Source Projects
 
 ### Interests
-Coding, Google-Fu, Open Source
+👩🏻‍💻 Coding
+
+🚀 Open Source Projects
 
 ## Technologies
 
