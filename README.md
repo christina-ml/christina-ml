@@ -46,35 +46,23 @@ Skills from Open Source Contributions & Additional Skills
 ## Projects
 
 #### Personal Project:
-PERN Stack (PostgreSQL, Express, React, Node), JavaScript:
-* [CryptoTalk](https://cryptotalk-cl.netlify.app/)
+| JavaScript & PERN Stack<br>(PostgreSQL, Express, React, Node) |
+|---------------------------------------------------------------|
+| [CryptoTalk](https://cryptotalk-cl.netlify.app/)              |
 
 #### Pursuit Fellowship Projects:
 
-Projects implementing the PERN Stack (PostgreSQL, Express, React, Node), JavaScript:
-* [CTA Store App](https://cl-cta-fe.netlify.app/)
-* [Budgeting App](https://cl-fe-budgeting-app.netlify.app/)
-
-More Projects:
-* [Command Line Snowman](https://github.com/christina-ml/8-0-command-line-snowman)
-* [Dinosaur Museum Project](https://github.com/christina-ml/8-0-dinosaur-museum-project)
+| JavaScript & PERN Stack<br>(PostgreSQL, Express, React, Node) | More Projects                                                                          |
+|---------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [CTA Store App](https://cl-cta-fe.netlify.app/)               | [Command Line Snowman](https://github.com/christina-ml/8-0-command-line-snowman)       |
+| [Budgeting App](https://cl-fe-budgeting-app.netlify.app/)     | [Dinosaur Museum Project](https://github.com/christina-ml/8-0-dinosaur-museum-project) |
 
 
 #### Udacity Nanodegree projects:
-HTML & CSS:
-* [Animal Trading Card](https://github.com/christina-ml/animal-trading-card)
-* [Personal Blog Website (site)](https://christina-ml.github.io/personal-blog-website/)
-    - [see code](https://github.com/christina-ml/personal-blog-website)
-
-HTML, CSS, & JavaScript:
-* [Pixel Art Maker (site)](https://christina-ml.github.io/Pixel-Art-Project/)
-    - [see code](https://github.com/christina-ml/Pixel-Art-Project)
-* [Landing Page (site)](https://christina-ml.github.io/fend-landing-page/)
-    - [see code](https://github.com/christina-ml/fend-landing-page)
-
-Python:
-* [Adventure Game](https://github.com/christina-ml/Adventure-Game)
-* [Rock Paper Scissors](https://github.com/christina-ml/Rock-Paper-Scissors)
+| HTML & CSS                                                                                                                                                   | HTML, CSS, & JavaScript                                                                                                                        | Python                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| [Animal Trading Card](https://github.com/christina-ml/animal-trading-card)                                                                                   | [Pixel Art Maker (site)](https://christina-ml.github.io/Pixel-Art-Project/)<br>- [see code](https://github.com/christina-ml/Pixel-Art-Project) | [Adventure Game](https://github.com/christina-ml/Adventure-Game)           |
+| [Personal Blog Website (site)](https://christina-ml.github.io/personal-blog-website/)<br>- [see code](https://github.com/christina-ml/personal-blog-website) | [Landing Page (site)](https://christina-ml.github.io/fend-landing-page/)<br>- [see code](https://github.com/christina-ml/fend-landing-page)    | [Rock Paper Scissors](https://github.com/christina-ml/Rock-Paper-Scissors) |
 
 <hr>
 
