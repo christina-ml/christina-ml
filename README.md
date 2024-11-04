@@ -1,61 +1,38 @@
-# Hello there! I'm Christina Loiacono 👋
+# 👋 Hello, I'm Christina Loiacono!
 
-I’m Christina, a Full Stack Software Engineer from New York City. Currently I am a recent graduate of Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate in NYC.
+I’m a Full Stack Software Engineer from New York City. I have 7 years of experience in textile design, and 2 years in web development including 7 months of professional experience. Recently, I was a Backend Engineering Intern on the SRE Team at The New York Times. Prior to that, I was an Assistant Coach at Pursuit for 4 months. I am also a recent graduate of Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate in NYC, where I learned Full Stack Web Development in JavaScript and the PERN Stack.
 
-I became a software engineer because I have always enjoyed using computers from a young age to create things such as artwork and my own newsletters. I have a passion for problem solving, working on puzzles, paying close attention to details, and being curious to learn new things each day. Today I am using my knowledge that I’ve learned from Pursuit to turn code into full stack web applications. I believe I can make a difference and become a leader in tech by strengthening and building upon my skills as well as learning new and exciting technologies as they arise in a fast-growing industry.
+I became a software engineer because from a young age, I've always loved using computers to bring my ideas to life, whether by creating digital art or developing my own newsletters. Throughout my career, I’ve demonstrated a passion for problem solving, paying close attention to details, and being curious to learn new things. Currently I'm focusing my passion into building innovative solutions that make a difference! I enjoy taking on complex problems, working collaboratively, and exploring new technologies.
 
-### Open to Work
-Full-time | Part-time | Apprenticeships | Internships | Contract Jobs | Volunteer Opportunities | Open Source Projects
+## 🔥 What I’m Currently Working On
+- Expanding my portfolio with full-stack web applications, focusing on real-world solutions.
+- Contributing to open-source projects to improve my technical skills, give back to the community, and collaborate with other developers through GitHub.
+- Exploring new technologies in frontend and backend development, including TypeScript.
 
-### Interests
-👩🏻‍💻 Coding
+## # Open to Work
+I am actively looking for Entry-Level roles in software engineering, and open to:
 
-🚀 Open Source Projects
+🌟 Full-time | ⏰ Part-time | 🛠️ Apprenticeships | 🚀 Internships | 📝 Contract Jobs | 🤝 Volunteer Opportunities | 🌱 Open Source Projects
 
-## Technologies
+## 🛠️ Technologies & Skills
+Here are some of the technologies I currently work with:
+- Languages & Frameworks: JavaScript, TypeScript, PERN Stack (PostgreSQL, Express.js, React.js, Node.js), HTML, CSS/SCSS, Vue.js, Svelte, Python
+- Libraries & Tools: Bootstrap, Material UI, Tailwind CSS, JWT, Jest, Cypress
+- Design & Project Management: Figma, Trello, Jira Cloud
 
-Skills - JavaScript, PERN Stack (PostgreSQL, Express.js, React.js, Node.js), HTML, CSS/SCSS<br />
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-Skills from Open Source Contributions & Additional Skills
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<hr>
-
-## Projects
+## 🚀 Featured Projects
 
 #### Personal Project:
 | JavaScript & PERN Stack<br>(PostgreSQL, Express, React, Node) |
 |---------------------------------------------------------------|
-| [CryptoTalk](https://cryptotalk-cl.netlify.app/)              |
+| [CryptoTalk](https://cryptotalk-cl.netlify.app/): A full stack web application that provides educational information on cryptocurrencies for beginners, utilizing data from the CoinMarketCap API. This project analyzes and presents complex data in a clear, user-friendly way.               |
 
 #### Pursuit Fellowship Projects:
 
 | JavaScript & PERN Stack<br>(PostgreSQL, Express, React, Node) | More Projects                                                                          |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| [CTA Store App](https://cl-cta-fe.netlify.app/)               | [Command Line Snowman](https://github.com/christina-ml/8-0-command-line-snowman)       |
-| [Budgeting App](https://cl-fe-budgeting-app.netlify.app/)     | [Dinosaur Museum Project](https://github.com/christina-ml/8-0-dinosaur-museum-project) |
+| [Crafts Store App](https://cl-cta-fe.netlify.app/): A full stack e-commerce app for selling crafts.               | [Command Line Snowman](https://github.com/christina-ml/8-0-command-line-snowman): A snowman in the terminal.       |
+| [Budgeting App](https://cl-fe-budgeting-app.netlify.app/): A tool to manage personal finances, and track spending.     | [Dinosaur Museum Project](https://github.com/christina-ml/8-0-dinosaur-museum-project): A full stack web application that utilizes a Dinosaur API on the backend. |
 
 
 #### Udacity Nanodegree projects:
@@ -64,16 +41,14 @@ Skills from Open Source Contributions & Additional Skills
 | [Animal Trading Card](https://github.com/christina-ml/animal-trading-card)                                                                                   | [Pixel Art Maker (site)](https://christina-ml.github.io/Pixel-Art-Project/)<br>- [see code](https://github.com/christina-ml/Pixel-Art-Project) | [Adventure Game](https://github.com/christina-ml/Adventure-Game)           |
 | [Personal Blog Website (site)](https://christina-ml.github.io/personal-blog-website/)<br>- [see code](https://github.com/christina-ml/personal-blog-website) | [Landing Page (site)](https://christina-ml.github.io/fend-landing-page/)<br>- [see code](https://github.com/christina-ml/fend-landing-page)    | [Rock Paper Scissors](https://github.com/christina-ml/Rock-Paper-Scissors) |
 
-<hr>
-
-### GitHub Stats
+### 📈 GitHub Stats
 
 [![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina-ml&theme=radical)](https://github.com/christina-ml/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina-ml&theme=radical&layout=compact)](https://github.com/christina-ml)
 
-<hr>
+## 🌐 Connect with Me
+Let’s connect! I’d love to hear about exciting opportunities, collaboration ideas, or to set up a quick coffee chat!
 
-### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christina-loiacono/)
 [![GitHub Badge](https://img.shields.io/github/followers/christina-ml?label=Follow%20%40christina-ml&style=social)](https://github.com/christina-ml)
 
